@@ -3,7 +3,7 @@ pipeline {
     stages {
     stage('build') {
     steps {
-      bat echo' This is my first pipeline.'
+      bat echo'This is my first pipeline.'
       }
     }
   }
